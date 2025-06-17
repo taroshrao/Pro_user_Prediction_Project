@@ -53,6 +53,9 @@ streamlit run pro_user_prediction_skill_captain.py
 * Built with TensorFlow and Keras.
 * Uses Scikit-learn for preprocessing.
 
+<img src="final_output.png" alt="Final Output" width="600">
+
+
 ---
 
 Feel free to clone, fork, or suggest improvements!
