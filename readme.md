@@ -1,9 +1,9 @@
 
 
 
-## Pro User Skill Prediction using Neural Network
+## Pro User Prediction on Skill_Captain website using Neural Network
 
-This project predicts a user's professional skill level using a pre-trained neural network model based on input features.
+This project predicts whether a user on skillcaptain website (https://skillcaptain.app/fe/home) is a PRO user or not, using a pre-trained neural network model based on input features.
 
 ## 🔧 Project Structure
 
